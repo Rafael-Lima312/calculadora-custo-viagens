@@ -1,4 +1,4 @@
-# App Viagem 2026
+# Calculadora de Custo de Viagem
 
 Aplicação desktop desenvolvida em Python utilizando CustomTkinter para calcular o custo estimado de uma viagem com base na distância percorrida, consumo do veículo e preço do combustível.
 
